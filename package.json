@@ -12,6 +12,7 @@
     "lint:fix": "eslint . --ext .ts,.vue --fix"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "clsx": "^2.1.1",
     "jszip": "^3.10.1",
     "lucide-vue-next": "^0.511.0",
